@@ -1,6 +1,6 @@
 # PizzaBandit_Students
 
-
+![pizzabandit_gamepreview.gif](pizzabandit_gamepreview.gif)
 
 Pizza Bandit (Java Processing) features a raccoon named Reggie who is trying to get all of the pizza spread around Pizzaville before animal control gets a hold of him with their robotic cages. Join Reggie and others such as Cheeky Pete and Suzie Coo as they navigate the streets filled with Pizza!
 
