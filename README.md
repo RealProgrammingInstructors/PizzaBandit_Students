@@ -77,3 +77,8 @@ instructor with any questions they may have.
 # Additional Notes:
 **Installation needs to happen before the course starts.**
 Please ensure that the student has the template installed and to keep GitHub desktop installed in case students would like to work in groups. Follow the installation guide below to get started and reach out if you have any questions at [our email info@realprogramming.com](mailto:info@realprogramming.com)!
+
+# Links
+[Installation and Setup Processing Guide](https://docs.google.com/document/d/1l68CybTafnAKsQsMTc5M8fqCZZZ0au7lIT8ssTyRpw0/edit?usp=sharing)
+
+[Website](https://realprogramming.com/)
