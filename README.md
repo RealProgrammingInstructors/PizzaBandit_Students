@@ -1,4 +1,4 @@
-# PizzaBandit_Students
+# Pizza Bandit
 
 ![pizzabandit_gamepreview.gif](pizzabandit_gamepreview.gif)
 
